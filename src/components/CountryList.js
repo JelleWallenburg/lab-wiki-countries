@@ -12,10 +12,6 @@ function CountryList({countryJSON}){
                     </div>
                 );
             })}
-            <ul>
-                <li></li>
-                <li>Country</li>
-            </ul>
         </div>
     )
 }
